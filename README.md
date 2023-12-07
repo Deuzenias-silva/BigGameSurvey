@@ -74,5 +74,5 @@ yarn start
 
 Deuzenias da costa
 
-https://www.linkedin.com/in/wmazoni
+www.linkedin.com/in/deuzenias-da-costa-a7243124b
 
